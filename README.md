@@ -1,6 +1,6 @@
 # Password Generater
 
-Third assignment for UC-Berkeley Extension Coding Bootcamp. This is an assignment to create a password generater with JavaScript. This was done with the assistance from Kerwin Hy and Jack Sneed (tutor).
+Third project while attending UC-Berkeley Extension Coding Bootcamp. This is a password generater with JavaScript. This was done with the assistance from Kerwin Hy and Jack Sneed (tutor).
 
 ## Getting Started
 
@@ -33,8 +33,7 @@ The easiest way to install is to accept the terms of service, then install the p
 
 [Contributors]
 
-* **KERWIN HY**
-* **JACK SNEED**
+* **NO CONTRIBUTORS**
 
 ## License
 
@@ -42,4 +41,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Thanks to my mentor, David Kramer, and my family, who are a continuing source of support and inspiration.
+* Thanks to my mentor, David Kramer, and my family, who are a continuing source of support and inspiration. Also to Kerwin Hy and Jack Sneed, who helped me when I would get stuck.
