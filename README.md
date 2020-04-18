@@ -1,6 +1,6 @@
-# Password Generater
+# Password Generator
 
-Third project while attending UC-Berkeley Extension Coding Bootcamp. This is a password generater with JavaScript. This was done with the assistance from Kerwin Hy and Jack Sneed (tutor).
+Third project while attending UC-Berkeley Extension Coding Bootcamp. This is a password generator with JavaScript. This was done with the assistance from Kerwin Hy and Jack Sneed (tutor).
 
 ## Getting Started
 
