@@ -20,7 +20,7 @@ The easiest way to install is to accept the terms of service, then install the p
 
 ## Deployed Link
 
-* [See Live Site](https://dfel08.github.io/password-generater/)
+* [See Live Site](https://dfel08.github.io/password-generator/)
 
 
 ## Authors
